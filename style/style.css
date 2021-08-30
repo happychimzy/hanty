@@ -1,0 +1,69 @@
+
+body{
+    background-color: black;
+    color: #ffff;
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Noto Sans JP', sans-serif;
+background-repeat: no-repeat;
+}
+.profile-img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.main-content{
+    display: flex;
+    width: 70%;
+    margin: 0 auto;
+    align-items: center;
+    flex-direction: column;
+}
+.person{
+    width: 60%;
+    margin: 0 auto;
+}
+.social-icon{
+margin: 0  auto;
+}
+.social-icon .twitter {
+    padding: 0 25px;
+}
+.about-me{
+    display: flex;
+    gap: 7%;
+    justify-content: space-between;
+    width: 100%;
+}
+ .about-content{
+    width: 50%;
+}
+.about-title{
+    width: 45%;
+}
+.chat-now{
+    align-items: center;
+    display: flex;
+    gap: 3%;
+}
+.number{
+    text-align: center;
+}
+.text-number{
+    margin: 35px 0;
+}
+.digit{
+    font-size: xx-large;
+    font-weight: 900px;
+}
+.design-par{
+    font-weight: xx-large;
+    font-size: 50px;
+}
+.animations{
+    margin: 0 auto;
+    width: 200px;
+    height: 100px;
+    padding: auto;
+    display: flex;
+    
+}
